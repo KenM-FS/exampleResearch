@@ -16,3 +16,5 @@ Example repository for research using GitHub features
   - src/
     - sourceCode.py
   - README.md
+
+Better to set GitHub repository **Private**
