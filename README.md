@@ -1,2 +1,2 @@
-# research
-Template repository for research using GitHub features
+# Example Research
+Example repository for research using GitHub features
